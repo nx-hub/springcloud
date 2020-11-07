@@ -27,6 +27,9 @@ public class PaymentController {
         map.put(6L,new Payment(1L,"1111"));
         map.put(27L,new Payment(2L,"2222"));
         map.put(8L,new Payment(3L,"3333"));
+        map.put(6L,new Payment(1L,"1111"));
+        map.put(27L,new Payment(2L,"2222"));
+        map.put(8L,new Payment(3L,"3333"));
     }
 
 
